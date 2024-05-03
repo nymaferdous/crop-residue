@@ -1,2 +1,2 @@
 # crop-residue
-Assess crop residue removal 
+Assess crop residue removal using machine learning
